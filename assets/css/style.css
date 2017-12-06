@@ -1,0 +1,42 @@
+body {
+  background-image: url("../images/pink.jpg");
+  background-size: 50%;
+}
+
+h2 {
+  font-family: 'pacifico';
+  font-size: 80px;
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'sacramento';
+  font-size: 55px;
+  color: #FF1493;
+}
+h4 {
+  color: #FF1493;
+  font-family: 'pacifico';
+text-align: center;
+font-size: 25px;
+}
+
+.keka{
+  font-family: 'pacifico';
+  color: #FF1493;
+font-size: 25px;
+}
+
+.box {
+  height: 50px;
+}
+
+.box1 {
+  height: 50px;
+  -webkit-transform: rotate(-3deg);
+}
+
+.container {
+  margin-top: 150px;
+}
